@@ -7,3 +7,29 @@
   text-align: center;
   font-size: 23px;
 }
+
+.side-menu {
+  padding: 4px;
+  width: 12%;
+  float: left;
+}
+
+.main-content {
+  width: 88%;
+  float: left;
+}
+
+#icon {
+  width: 100px;
+  margin: 10px;
+}
+
+.unlist {
+  list-style-type: none;
+}
+
+h6 {
+  font-size: 13px;
+  margin-left: 39px;
+  border-bottom: 2px solid black;
+}
