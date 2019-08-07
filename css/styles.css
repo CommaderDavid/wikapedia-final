@@ -33,3 +33,15 @@ h6 {
   margin-left: 39px;
   border-bottom: 2px solid black;
 }
+
+#first {
+  float: left;
+  width: 150px;
+  margin-right: 10px;
+}
+
+#second {
+  float: right;
+  width: 150px;
+  margin-left: 10px;
+}
