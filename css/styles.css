@@ -45,3 +45,15 @@ h6 {
   width: 150px;
   margin-left: 10px;
 }
+
+#third {
+  float: right;
+  width: 170px;
+  margin-left: 10px;
+}
+
+#forth {
+  float: right;
+  width: 150px;
+  margin-left: 10px;
+}
